@@ -1,0 +1,14 @@
+body
+{
+    background:lightblue;
+    font-family: serif;
+}
+h1{
+    font-size: 50pt;
+}
+h2{
+    font-size: 40pt;
+}
+button{
+    font-size: 20pt;
+}
